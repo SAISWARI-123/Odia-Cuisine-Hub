@@ -1,5 +1,7 @@
 # Odisha Cuisine Hub
 
+[Odisha Cuisine Hub](https://odisha-cuisine-hub.netlify.app/)
+
 Welcome to the Odisha Cuisine Hub, a web application dedicated to showcasing the rich and diverse food culture of Odisha. Explore traditional recipes, learn about the history of Odisha's famous dishes, and discover how these cuisines have gained global recognition.
 
 ## Table of Contents
