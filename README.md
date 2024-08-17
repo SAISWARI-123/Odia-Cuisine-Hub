@@ -57,7 +57,7 @@ Contributions are welcome! Please follow these steps to contribute:
    npm install
 3.Start the development server:
   ```bash
-  npm start
+   npm start
 
 
 
